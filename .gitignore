@@ -68,3 +68,6 @@ doc/api/
 
 # Generated classes
 *.g.dart
+
+# FVM Version Cache
+.fvm/
